@@ -1,1 +1,1 @@
-Test
+Interactive Dashboard Analyzing Movies Rental rates, Avg. pricing by duration and key rental trends
